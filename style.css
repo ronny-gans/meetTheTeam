@@ -1,0 +1,174 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+html {
+    font-family: "Outfit", serif;
+    font-size: 1rem;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    margin: 5rem;
+    border-radius: 15px;
+    background-color: #F3F4F6;
+    background-image: url(resources/Background_decor.svg);
+}
+.header {
+    grid-column: 1/span 2;
+    padding: 2.5rem;
+}
+.our-team  {
+    color: #263FA9;
+    font-size: 1rem;
+    margin-bottom: 1rem;
+    font-weight: 400;
+}
+.meet-the-brain {
+    font-weight: 500;
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+.desc {
+    color: #394150;
+    font-weight: 500;
+    font-size: 1rem;
+
+}
+.person {
+    position: relative;
+    aspect-ratio: 1/1;
+    overflow: hidden;
+    margin: 0;
+}
+.person img {
+    width: 100%;
+    height: auto;
+    position: absolute;
+    object-fit: cover;
+}
+.person1 {
+    background: linear-gradient(
+        180deg,
+        #C1B6F8 50%,
+        rgba(0, 0, 0, 0.8) 100%
+    );
+}
+.person2 {
+    background: linear-gradient(
+        180deg,
+        #EDACD2 50%,
+        rgba(0, 0, 0, 0.8) 100%
+    );
+    border-start-end-radius: 20px;
+}
+.person3 {
+    background: linear-gradient(
+        180deg,
+        #9DC4F8 50%,
+        rgba(0, 0, 0, 0.8) 100%
+    );
+}
+.person4 {
+    background: linear-gradient(
+        180deg,
+        #F8D8B0 50%,
+        rgba(0, 0, 0, 0.8) 100%
+    );
+}
+.person5 {
+    background: linear-gradient(
+        180deg,
+        #86E7D4 50%,
+        rgba(0, 0, 0, 0.8) 100%
+    );
+    border-end-end-radius: 20px;
+}
+.name-role {
+    position: absolute;
+    bottom: 1rem;
+    left: 1rem;
+}
+.name {
+    color: #FFFEFE;
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+.role {
+    color: #FFFEFE;
+    font-size: 1rem;
+}
+.see-all-container {
+    grid-column: 1;
+    grid-row: 2;
+    display: flex;
+    align-items: flex-end;
+    padding: 2.5rem;
+}
+.see-all {
+    display: flex;
+    align-items: flex-end;
+    gap: 0.5rem;
+}
+.see-all p {
+    color: #394150;
+    font-weight: 500;
+    font-size: 1rem;
+}
+@media only screen and (max-width:1024px) {
+    .grid-container {
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+    }
+    .header {
+        grid-column: 1 / span3;
+    }
+    .see-all-container {
+        grid-column:1;
+        grid-row: 3; 
+    }
+    .person2 {
+        border-start-end-radius:0px ;
+    }
+    .person4 {
+        grid-row: 3;
+        grid-column:2;
+    }
+    .person5 {
+        grid-column: 3;
+        grid-row: 3;
+    }
+}
+@media only screen and (max-width: 640px) {
+    .grid-container {
+        display: grid;
+        grid-template-columns: 1fr;
+        overflow: visible;
+    }
+    .header {
+        grid-column: 1/span 1;
+    }
+    
+    .person1 {
+        grid-row: 2;
+    }
+    .person2 {
+        grid-row: 3;
+    }
+    .person3 {
+        grid-row: 4;
+    }
+    .person4 {
+        grid-column: 1;
+        grid-row: 5;
+    }
+    .person5 {
+        grid-column: 1;
+        grid-row: 6;
+        border-end-end-radius: 0px;
+    }
+    .see-all-container {
+        grid-row: 7;
+        aspect-ratio: 1/1;
+    }
+}
